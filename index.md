@@ -1,7 +1,6 @@
 ---
 title: "Web Content Accessibility and Mobile Web: Making a Website Accessible Both for People with Disabilities and for Mobile Devices"
-permalink: /standards-guidelines/wcag-mobile-overlap/
-redirect_from: /
+permalink: /standards/wcag-mobile-overlap/
 layout: default
 ---
 

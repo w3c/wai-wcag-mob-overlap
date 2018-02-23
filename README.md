@@ -2,5 +2,5 @@
 
 Current Preview:
 
-https://w3c.github.io/wai-wcag-mob-overlap/
+https://w3c.github.io/wai-wcag-mob-overlap/standards/wcag-mobile-overlap/
 
