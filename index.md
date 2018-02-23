@@ -3,6 +3,12 @@ title: "Web Content Accessibility and Mobile Web: Making a Website Accessible Bo
 title_html: "Web Content Accessibility and Mobile Web:<br>Making a Website Accessible Both for People with Disabilities and for Mobile Devices"
 permalink: /standards/wcag-mobile-overlap/
 layout: default
+footer: >
+  <p>
+    <strong>Status:</strong>
+    Updated 31 August 2012 (first published January 2008 at www.w3.org/WAI/mobile/Overview.html, moved to www.w3.org/WAI/mobile/overlap.html in August 2012)<br>
+    Editors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a> and Justin Thorp. Developed by the Web Accessibility Initiative Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">WAI EOWG</a>) with the Mobile Web Best Practices Working Group (<a href="https://www.w3.org/2005/MWI/BPWG/">MWI BPWG</a>).
+  </p>
 ---
 
 {::nomarkdown}
