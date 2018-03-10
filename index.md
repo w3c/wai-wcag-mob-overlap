@@ -1,9 +1,23 @@
 ---
 title: "Web Content Accessibility and Mobile Web: Making a Website Accessible Both for People with Disabilities and for Mobile Devices"
 title_html: "Web Content Accessibility and Mobile Web:<br>Making a Website Accessible Both for People with Disabilities and for Mobile Devices"
-permalink: /standards/wcag-mobile-overlap/
+permalink: /standards-guidelines/wcag-mobile-overlap/
 layout: default
-archive: This document is archived but still relevant.
+github:
+  repository: w3c/wai-wcag-mob-overlap
+doc-note-type: archived
+doc-note-message-md: >
+  This page introduces how:
+
+  -   The user experience of *people with disabilities using "traditional" computers* is related to the user experience of *all mobile users (particularly those without disabilities)*
+
+  -   Accessibility guidelines and mobile best practices overlap.
+
+
+  This page was developed in 2008, and most of it is still relevant.
+
+
+  **For more recent information on *mobile accessibility* — that is, people with disabilities using content on mobile devices, see [www.w3.org/WAI/mobile/](https://www.w3.org/WAI/mobile/)**
 footer: >
   <p>
     <strong>Status:</strong>
@@ -12,24 +26,6 @@ footer: >
   </p>
 ---
 
-{::nomarkdown}
-{% include box.html type="start" title="This page introduces how:" %}
-{:/}
-
--   The user experience of *people with disabilities using "traditional"
-    computers* is related to the user experience of *all mobile users
-    (particularly those without disabilities)*
--   Accessibility guidelines and mobile best practices overlap.
-
-This page was developed in 2008, and most of it is still relevant.
-
-**For more recent information on *mobile accessibility* — that is,
-people with disabilities using content on mobile devices, see
-[www.w3.org/WAI/mobile/](https://www.w3.org/WAI/mobile/)**
-
-{::nomarkdown}
-{% include box.html type="end" %}
-{:/}
 
 {::options toc_levels="2" /}
 
