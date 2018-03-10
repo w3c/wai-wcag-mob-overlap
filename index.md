@@ -81,7 +81,7 @@ The W3C provides guidelines/standards on making accessible content and
 best practices for making mobile-friendly content.
 
 -   [Web Content Accessibility Guidelines
-    (WCAG)](http://www.w3.org/WAI/intro/wcag.php) is a guide for making
+    (WCAG)]({{ "/standards-guidelines/wcag/" | relative_url }}) is a guide for making
     websites accessible to people with disabilities.
 -   [Mobile Web Best Practices](http://www.w3.org/TR/mobile-bp/) (MWBP)
     is a guide for making websites usable from a mobile device.
