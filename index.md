@@ -103,7 +103,7 @@ Following these two guidelines makes your web content more accessible to
 everyone regardless of situation, environment, or device. Designing to
 the guidelines together, instead of separately, can make the process
 more efficient — especially when considered [early in the
-project]({{ "/plan/involving-users/" | relative_url }}).
+project]({{ "/planning/involving-users/" | relative_url }}).
 
 Websites that already meet WCAG or MWBP are already well on the way to
 meeting the other.
